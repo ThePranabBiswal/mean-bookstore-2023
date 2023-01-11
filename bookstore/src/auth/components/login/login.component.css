@@ -4,6 +4,10 @@
     margin-top: 60px;
 }
 .border{
-    border-left: 1px solid brown;
+    border-right: 4px solid brown;
     height: 100%;
+}
+img{
+    width: 300px;
+    height: 300px;
 }
